@@ -1,0 +1,32 @@
+# Backup and temp files
+*.bak
+*.tmp
+*.swp
+*~
+
+# KiCad project/user files
+*.kicad_pro.user
+*.kicad_pcb-bak
+*.kicad_sch-bak
+
+# Exported outputs
+*.step
+*.stp
+*.wrl
+*.iges
+*.pdf
+*.drl
+*.gbr
+*.cmp
+*.fab
+*.csv
+*.png
+*.svg
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
