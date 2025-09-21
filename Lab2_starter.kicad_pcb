@@ -937,7 +937,7 @@
 	(footprint "Resistor_SMD:R_0805_2012Metric"
 		(layer "F.Cu")
 		(uuid "19661992-7e8e-446e-8393-bd4ef6586ab7")
-		(at 271 154.5)
+		(at 136.8075 107.97)
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R13"
@@ -4317,7 +4317,7 @@
 	(footprint "ECE462L:1-2199298-3"
 		(layer "F.Cu")
 		(uuid "2806f731-1921-4906-a872-6c311325292c")
-		(at 47.17 123.31)
+		(at 105 113.31)
 		(tags "1-2199298-3 ")
 		(property "Reference" "U1"
 			(at 7.62 -3.81 0)
@@ -5376,7 +5376,7 @@
 	(footprint "Resistor_SMD:R_0805_2012Metric"
 		(layer "F.Cu")
 		(uuid "2dca1395-ba03-464e-a94d-58645d74b083")
-		(at 263.505 146.365)
+		(at 129.3125 99.835)
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R4"
@@ -9600,7 +9600,7 @@
 	(footprint "Diode_SMD:Nexperia_CFP3_SOD-123W"
 		(layer "F.Cu")
 		(uuid "4729fcf5-1803-4c7d-83ef-9a6ca87dbba8")
-		(at 291.58 65.305)
+		(at 140.4325 76.29)
 		(descr "Nexperia CFP3 (SOD-123W), https://assets.nexperia.com/documents/outline-drawing/SOD123W.pdf")
 		(tags "CFP3 SOD-123W")
 		(property "Reference" "D2"
@@ -14604,7 +14604,7 @@
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
 		(uuid "b1d95be7-2db1-4186-88c8-deaacf95fd01")
-		(at 273.985 77.965)
+		(at 122.8375 88.95)
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C4"
@@ -14805,7 +14805,7 @@
 	(footprint "Resistor_SMD:R_0805_2012Metric"
 		(layer "F.Cu")
 		(uuid "b37f4fa7-c362-411a-aa03-07b4d44cdcef")
-		(at 272.325 146.365)
+		(at 138.1325 99.835)
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R12"
@@ -15207,7 +15207,7 @@
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
 		(uuid "b8df7013-2139-4727-aca1-e0c3a4f1c071")
-		(at 273.985 74.955)
+		(at 122.8375 85.94)
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C3"
@@ -16274,7 +16274,7 @@
 	(footprint "Resistor_SMD:R_0805_2012Metric"
 		(layer "F.Cu")
 		(uuid "c389ca00-ba26-4774-8b71-9a62df0e33ed")
-		(at 263.505 143.415)
+		(at 129.3125 96.885)
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R3"
@@ -18265,7 +18265,7 @@
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
 		(uuid "e4f9beb4-ad04-4f00-90ed-c669e8ff7d15")
-		(at 287.335 74.955)
+		(at 136.1875 85.94)
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C19"
