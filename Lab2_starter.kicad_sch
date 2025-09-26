@@ -5565,7 +5565,7 @@
 		(uuid "f790a680-c5d7-4494-8bcf-428300d7df0b")
 	)
 	(junction
-		(at 77.47 139.7)
+		(at 78.105 139.7)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "05987f0c-9de1-4965-ac3c-f398fa146f60")
@@ -5697,7 +5697,7 @@
 		(uuid "8c6852cd-bb89-44e0-85e8-171546a57d9f")
 	)
 	(junction
-		(at 77.47 154.94)
+		(at 78.105 154.94)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9ce530fa-e657-4117-965e-c08c83440bb0")
@@ -5928,7 +5928,7 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 139.7) (xy 77.47 143.51)
+			(xy 78.105 139.7) (xy 78.105 143.51)
 		)
 		(stroke
 			(width 0)
@@ -6248,7 +6248,7 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 151.13) (xy 77.47 154.94)
+			(xy 78.105 151.13) (xy 78.105 154.94)
 		)
 		(stroke
 			(width 0)
@@ -6408,7 +6408,7 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 154.94) (xy 77.47 156.21)
+			(xy 78.105 154.94) (xy 78.105 156.21)
 		)
 		(stroke
 			(width 0)
@@ -6718,7 +6718,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 139.7) (xy 77.47 139.7)
+			(xy 75.565 139.7) (xy 78.105 139.7)
 		)
 		(stroke
 			(width 0)
@@ -6738,7 +6738,7 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 143.51) (xy 91.44 139.7)
+			(xy 92.075 143.51) (xy 92.075 139.7)
 		)
 		(stroke
 			(width 0)
@@ -6818,7 +6818,7 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 139.7) (xy 91.44 139.7)
+			(xy 78.105 139.7) (xy 92.075 139.7)
 		)
 		(stroke
 			(width 0)
@@ -7128,7 +7128,7 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 154.94) (xy 91.44 154.94)
+			(xy 78.105 154.94) (xy 92.075 154.94)
 		)
 		(stroke
 			(width 0)
@@ -7438,7 +7438,7 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 151.13) (xy 91.44 154.94)
+			(xy 92.075 151.13) (xy 92.075 154.94)
 		)
 		(stroke
 			(width 0)
@@ -7952,22 +7952,22 @@
 	)
 	(global_label "C2000 D "
 		(shape input)
-		(at 29.21 107.95 180)
+		(at 29.21 107.95 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "3b8f31e6-3279-4a89-bebb-a02f45c80a05")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 17.9208 107.95 0)
+			(at 40.4992 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -8480,7 +8480,7 @@
 	)
 	(global_label "Vout"
 		(shape input)
-		(at 74.93 139.7 180)
+		(at 75.565 139.7 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8490,7 +8490,7 @@
 		)
 		(uuid "f0aec8f3-4e5f-4d30-8647-a03ddd0689e3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 67.9119 139.7 0)
+			(at 68.5469 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9098,7 +9098,7 @@
 	)
 	(symbol
 		(lib_id "Device:D_Zener")
-		(at 77.47 147.32 270)
+		(at 78.105 147.32 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9107,7 +9107,7 @@
 		(fields_autoplaced yes)
 		(uuid "178efcde-fc23-4cbc-a308-eb32339d5d2d")
 		(property "Reference" "D1"
-			(at 80.645 146.685 90)
+			(at 81.28 146.685 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9116,7 +9116,7 @@
 			)
 		)
 		(property "Value" "D_Zener"
-			(at 80.645 149.225 90)
+			(at 81.28 149.225 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9125,7 +9125,7 @@
 			)
 		)
 		(property "Footprint" "ECE462L:1.5KE75A"
-			(at 77.47 147.32 0)
+			(at 78.105 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9134,7 +9134,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 77.47 147.32 0)
+			(at 78.105 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9143,7 +9143,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 77.47 147.32 0)
+			(at 78.105 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9836,7 +9836,7 @@
 	)
 	(symbol
 		(lib_id "Device:Varistor")
-		(at 91.44 147.32 0)
+		(at 92.075 147.32 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9845,7 +9845,7 @@
 		(fields_autoplaced yes)
 		(uuid "25938c7c-4462-4d5b-b548-0818a10157fd")
 		(property "Reference" "RV1"
-			(at 94.615 146.7842 0)
+			(at 95.25 146.7842 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9854,7 +9854,7 @@
 			)
 		)
 		(property "Value" "Varistor"
-			(at 94.615 149.3242 0)
+			(at 95.25 149.3242 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9863,7 +9863,7 @@
 			)
 		)
 		(property "Footprint" "ECE462L:V100ZA15P"
-			(at 89.662 147.32 90)
+			(at 90.297 147.32 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9872,7 +9872,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 91.44 147.32 0)
+			(at 92.075 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9881,7 +9881,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 91.44 147.32 0)
+			(at 92.075 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9890,7 +9890,7 @@
 			)
 		)
 		(property "Sim.Name" "kicad_builtin_varistor"
-			(at 91.44 147.32 0)
+			(at 92.075 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9899,7 +9899,7 @@
 			)
 		)
 		(property "Sim.Device" "SUBCKT"
-			(at 91.44 147.32 0)
+			(at 92.075 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9908,7 +9908,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=A 2=B"
-			(at 91.44 147.32 0)
+			(at 92.075 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9917,7 +9917,7 @@
 			)
 		)
 		(property "Sim.Params" "threshold=1k"
-			(at 91.44 147.32 0)
+			(at 92.075 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9926,7 +9926,7 @@
 			)
 		)
 		(property "Sim.Library" "${KICAD7_SYMBOL_DIR}/Simulation_SPICE.sp"
-			(at 91.44 147.32 0)
+			(at 92.075 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14626,7 +14626,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 77.47 156.21 0)
+		(at 78.105 156.21 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14634,7 +14634,7 @@
 		(dnp no)
 		(uuid "a28598ec-204e-44b6-ad2c-00fabe7fd95f")
 		(property "Reference" "#PWR01"
-			(at 77.47 162.56 0)
+			(at 78.105 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14643,7 +14643,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 77.47 160.274 0)
+			(at 78.105 160.274 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14651,7 +14651,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 77.47 156.21 0)
+			(at 78.105 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14660,7 +14660,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 77.47 156.21 0)
+			(at 78.105 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14669,7 +14669,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 77.47 156.21 0)
+			(at 78.105 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
